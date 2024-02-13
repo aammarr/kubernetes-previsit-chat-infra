@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: sample-app
-          image: vaqasuddin/gittops:e6710af108facf3f94a2da3c0573930193f561b1
+          image: vaqasuddin/gittops:ae14497dbeb04fa21a2c9a5d2659bee64cebfcb2
           imagePullPolicy: Always
           ports:
             - containerPort: 80
